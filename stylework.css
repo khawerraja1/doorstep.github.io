@@ -1,0 +1,6 @@
+p.red { color: red }
+img { width: 54px; height: 54px; }
+div { border: 5px ridge royalblue;
+	  padding: 10px; width: 120px;
+	  margin-bottom: 10px; }
+.point { margin: 0px; }
